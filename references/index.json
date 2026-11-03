@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "id": "entry",
+      "label": "원천 진입 안내",
+      "description": "원천 진입 안내",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../AGENTS.md",
+      "topics": [
+        "entry"
+      ]
+    },
+    {
+      "id": "source-info",
+      "label": "원천 정보",
+      "description": "원천 정보",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../source.json",
+      "topics": [
+        "source-info"
+      ]
+    },
+    {
+      "id": "brief",
+      "label": "brief 내부 스킬",
+      "description": "brief 내부 스킬",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/brief/SKILL.md",
+      "topics": [
+        "brief"
+      ]
+    },
+    {
+      "id": "constraints",
+      "label": "brief-constraints",
+      "description": "brief-constraints",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/brief/sources/constraints.md",
+      "topics": [
+        "product",
+        "brief",
+        "constraints"
+      ]
+    },
+    {
+      "id": "examples",
+      "label": "brief-examples",
+      "description": "brief-examples",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/brief/sources/examples.md",
+      "topics": [
+        "product",
+        "brief",
+        "examples"
+      ]
+    },
+    {
+      "id": "source-evaluation",
+      "label": "brief-source-evaluation",
+      "description": "brief-source-evaluation",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/brief/sources/source-evaluation.md",
+      "topics": [
+        "product",
+        "brief",
+        "source-evaluation"
+      ]
+    },
+    {
+      "id": "workflow",
+      "label": "brief-workflow",
+      "description": "brief-workflow",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../capabilities/brief/sources/workflow.md",
+      "topics": [
+        "product",
+        "brief",
+        "workflow"
+      ]
+    },
+    {
+      "id": "client-contract",
+      "label": "참조 체계 참여 계약",
+      "description": "원천 소유권과 내부 스킬 노출 경계",
+      "kind": "source",
+      "access": "web",
+      "locator": "https://raw.githubusercontent.com/source-guided/project-builder/main/plugins/project-builder/sources/source-contract.md",
+      "topics": [
+        "contract",
+        "reference"
+      ]
+    }
+  ]
+}

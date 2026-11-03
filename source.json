@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "id": "product",
+  "version": "1.0.0",
+  "role": "제품·요구사항",
+  "exposure": "source-only",
+  "contract": "project-builder.source/v1",
+  "entry": "references/index.json",
+  "capabilities": [
+    "capabilities/brief/SKILL.md"
+  ]
+}
