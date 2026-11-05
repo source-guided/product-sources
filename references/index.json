@@ -24,66 +24,18 @@
       ]
     },
     {
-      "id": "brief",
-      "label": "brief 내부 스킬",
-      "description": "brief 내부 스킬",
-      "kind": "source",
+      "id": "requirements",
+      "label": "문제 정의와 요구사항",
+      "description": "문제 정의와 요구사항",
+      "kind": "reference",
       "access": "relative",
-      "locator": "../capabilities/brief/SKILL.md",
+      "locator": "brief/index.json",
       "topics": [
-        "brief"
-      ]
-    },
-    {
-      "id": "constraints",
-      "label": "brief-constraints",
-      "description": "brief-constraints",
-      "kind": "source",
-      "access": "relative",
-      "locator": "../capabilities/brief/sources/constraints.md",
-      "topics": [
-        "product",
         "brief",
-        "constraints"
-      ]
-    },
-    {
-      "id": "examples",
-      "label": "brief-examples",
-      "description": "brief-examples",
-      "kind": "source",
-      "access": "relative",
-      "locator": "../capabilities/brief/sources/examples.md",
-      "topics": [
-        "product",
-        "brief",
-        "examples"
-      ]
-    },
-    {
-      "id": "source-evaluation",
-      "label": "brief-source-evaluation",
-      "description": "brief-source-evaluation",
-      "kind": "source",
-      "access": "relative",
-      "locator": "../capabilities/brief/sources/source-evaluation.md",
-      "topics": [
-        "product",
-        "brief",
-        "source-evaluation"
-      ]
-    },
-    {
-      "id": "workflow",
-      "label": "brief-workflow",
-      "description": "brief-workflow",
-      "kind": "source",
-      "access": "relative",
-      "locator": "../capabilities/brief/sources/workflow.md",
-      "topics": [
-        "product",
-        "brief",
-        "workflow"
+        "requirements",
+        "constraints",
+        "기획",
+        "요구사항"
       ]
     },
     {

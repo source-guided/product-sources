@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "id": "brief",
+      "label": "brief 내부 스킬",
+      "description": "brief 내부 스킬",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/brief/SKILL.md",
+      "topics": [
+        "brief"
+      ]
+    },
+    {
+      "id": "constraints",
+      "label": "brief-constraints",
+      "description": "brief-constraints",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/brief/sources/constraints.md",
+      "topics": [
+        "product",
+        "brief",
+        "constraints"
+      ]
+    },
+    {
+      "id": "examples",
+      "label": "brief-examples",
+      "description": "brief-examples",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/brief/sources/examples.md",
+      "topics": [
+        "product",
+        "brief",
+        "examples"
+      ]
+    },
+    {
+      "id": "source-evaluation",
+      "label": "brief-source-evaluation",
+      "description": "brief-source-evaluation",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/brief/sources/source-evaluation.md",
+      "topics": [
+        "product",
+        "brief",
+        "source-evaluation"
+      ]
+    },
+    {
+      "id": "workflow",
+      "label": "문제 정의와 소유 영역별 요구사항 정리",
+      "description": "입력 근거·조건·질문을 분석하고 프로젝트 자료를 소유 영역에 작성하는 흐름",
+      "kind": "source",
+      "access": "relative",
+      "locator": "../../capabilities/brief/sources/workflow.md",
+      "topics": [
+        "product",
+        "brief",
+        "workflow",
+        "organization",
+        "documents",
+        "구조"
+      ]
+    }
+  ]
+}
