@@ -3,52 +3,67 @@
   "entries": [
     {
       "id": "brief",
-      "label": "brief 내부 스킬",
-      "description": "brief 내부 스킬",
+      "label": "제품 요구사항 분석 스킬",
+      "description": "기획 입력과 요구사항을 분석할 때의 진입 안내",
       "kind": "source",
       "access": "relative",
       "locator": "../../capabilities/brief/SKILL.md",
       "topics": [
-        "brief"
+        "brief",
+        "요구사항",
+        "기획",
+        "requirements"
       ]
     },
     {
       "id": "constraints",
-      "label": "brief-constraints",
-      "description": "brief-constraints",
+      "label": "제약 조건과 경계 추출",
+      "description": "입력 범위·단위·시간·상태 조건을 원문에서 찾는 안내",
       "kind": "source",
       "access": "relative",
       "locator": "../../capabilities/brief/sources/constraints.md",
       "topics": [
         "product",
         "brief",
-        "constraints"
+        "constraints",
+        "제약",
+        "경계",
+        "입력",
+        "범위",
+        "boundaries"
       ]
     },
     {
       "id": "examples",
-      "label": "brief-examples",
-      "description": "brief-examples",
+      "label": "제품 요구사항 해석 예제",
+      "description": "명시 요구·관찰·제안을 구별하는 합성 사례",
       "kind": "source",
       "access": "relative",
       "locator": "../../capabilities/brief/sources/examples.md",
       "topics": [
         "product",
         "brief",
-        "examples"
+        "examples",
+        "예제",
+        "사례"
       ]
     },
     {
       "id": "source-evaluation",
-      "label": "brief-source-evaluation",
-      "description": "brief-source-evaluation",
+      "label": "요구사항 근거와 수용 기준",
+      "description": "출처의 성격과 수용 기준·평가 근거를 구별하는 안내",
       "kind": "source",
       "access": "relative",
       "locator": "../../capabilities/brief/sources/source-evaluation.md",
       "topics": [
         "product",
         "brief",
-        "source-evaluation"
+        "source-evaluation",
+        "수용 기준",
+        "평가",
+        "출처",
+        "acceptance",
+        "provenance"
       ]
     },
     {
@@ -64,7 +79,10 @@
         "workflow",
         "organization",
         "documents",
-        "구조"
+        "구조",
+        "요구사항",
+        "기획",
+        "requirements"
       ]
     }
   ]
