@@ -18,7 +18,7 @@
     {
       "id": "constraints",
       "label": "제약 조건과 경계 추출",
-      "description": "입력 범위·단위·시간·상태 조건을 원문에서 찾는 안내",
+      "description": "제약·입력 경계와 수용 결과를 추출하고 구현 선택과 구분하는 안내",
       "kind": "source",
       "access": "relative",
       "locator": "../../capabilities/brief/sources/constraints.md",
@@ -30,7 +30,8 @@
         "경계",
         "입력",
         "범위",
-        "boundaries"
+        "boundaries",
+        "수용 결과"
       ]
     },
     {

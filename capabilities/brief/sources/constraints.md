@@ -26,3 +26,7 @@ When a contract names a format or standard, identify the adopted version/profile
 An absent maximum does not establish unlimited resource requirements, and a runtime's default ceiling does not establish a product limit. Look for supplied operational scope and owner policy before choosing a bound. Keep an unresolved material limit or interpretation visible; ask only when that missing decision actually blocks the required outcome. A declared implementation limitation cannot silently narrow a mandatory requirement.
 
 After implementation, reconcile the ledger against actual behavior and evidence. Unimplemented requirements remain visible; optional proposals must not displace them.
+
+## Preserve requirement provenance
+
+Keep user-required outcomes, adopted contracts, model proposals and observed behavior distinct in the specification. Describe what the user can accomplish and what data/state must hold; exact mechanisms become constraints only when an authoritative source fixes them. Follow the consuming project's selected verification source to assess tests and evidence without narrowing these requirements.
